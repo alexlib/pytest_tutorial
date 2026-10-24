@@ -10,3 +10,4 @@ report.html
 assets
 report
 .DS_Store
+uv.lock
